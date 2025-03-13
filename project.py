@@ -7,6 +7,13 @@ return S
 
 =======
 Data=[1,3,5]
-Som=sum(Data)
+if Data:
 print ('la somme est : ',som)
+<<<<<<< HEAD
+>>>>>>> projectf2
+=======
+print('le min est:',min(Data))
+print('le max est: ',max(Data))
+else:
+print('dossier vide')
 >>>>>>> projectf2
